@@ -128,7 +128,7 @@ The interactive dashboard includes:
 ## 📦 Deliverables
 
 - 📊 Power BI Dashboard (`.pbix`) - 
-- 📄 Project Report (PDF/Word) -
+- 📄 Project Report (PDF/Word) - https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/E-commerce%20Return%20Rate%20Reduction%20Analysis%20Report.docx
 - 📁 Dataset (CSV) -
 - 🖼 Dashboard Screenshots -
 
