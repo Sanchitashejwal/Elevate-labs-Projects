@@ -59,13 +59,13 @@ Employees working overtime were more likely to leave
 Most resignations occurred between 5–10 years of service
 
 📦 Deliverables
-📊 HR_Attrition_Dashboard.pbix –
+📊 HR_Attrition_Dashboard.pbix – https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/HR%20Employee%20Analysis.pbix
 
-📸 HR_Attrition_Dashboard_Screenshot.png – 
+📸 HR_Attrition_Dashboard_Screenshot.png – https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/HR%20Employee%20Analysis.png
 
-📄 HR_Employee_Attrition_Report.pdf – 
+📄 HR_Employee_Attrition_Report.pdf – https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/HR%20Employee%20Analysis%20Report.docx
 
-📂 Dataset: 
+📂 Dataset: https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/HR-Employee-Attrition-Analysis.csv.csv
 
 
 
@@ -127,10 +127,10 @@ The interactive dashboard includes:
 
 ## 📦 Deliverables
 
-- 📊 Power BI Dashboard (`.pbix`) - 
+- 📊 Power BI Dashboard (`.pbix`) - https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/E-commerce%20Return%20Rate%20Reduction%20Analysis.pbix
 - 📄 Project Report (PDF/Word) - https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/E-commerce%20Return%20Rate%20Reduction%20Analysis%20Report.docx
-- 📁 Dataset (CSV) -
-- 🖼 Dashboard Screenshots -
+- 📁 Dataset (CSV) - https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/ecommerce_returns_synthetic_data.csv
+- 🖼 Dashboard Screenshots - https://github.com/Sanchitashejwal/Elevate-labs-Projects/blob/main/E-commerce%20Return%20Rate%20Reduction%20Analysis.png
 
 ## 📌 Conclusion
 
